@@ -3,7 +3,7 @@ import { useSession, signIn, signOut } from "next-auth/react";
 import user from "../public/user.png";
 import Image from "next/image";
 
-const User = () => {
+const User = ({ className }) => {
     const { data: session } = useSession();
     if (session) {
         return (
@@ -13,7 +13,7 @@ const User = () => {
                     src={user}
                     width={35}
                     height={35}
-                    className="cursor-pointer"
+                    className={`cursor-pointer ${className}`}
                 />
             </>
         );
@@ -22,7 +22,7 @@ const User = () => {
         <>
             <button
                 onClick={signIn}
-                className="bg-blue-500 text-white px-6 py-2 font-medium rounded-md hover:brightness-105 cursor-pointer hover:shadow-md"
+                className={`bg-blue-500 text-white px-6 py-2 font-medium rounded-md hover:brightness-105 cursor-pointer hover:shadow-md ${className}`}
             >
                 Sign In
             </button>
