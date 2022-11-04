@@ -9,7 +9,7 @@ export default {
         request: [
             {
                 title: "Google Custom Search - league of legends",
-                totalResults: "380000000",
+                totalResults: "8110000000",
                 searchTerms: "league of legends",
                 count: 10,
                 startIndex: 1,
@@ -17,12 +17,13 @@ export default {
                 outputEncoding: "utf8",
                 safe: "off",
                 cx: "178505e41af014287",
+                searchType: "image",
             },
         ],
         nextPage: [
             {
                 title: "Google Custom Search - league of legends",
-                totalResults: "380000000",
+                totalResults: "8110000000",
                 searchTerms: "league of legends",
                 count: 10,
                 startIndex: 11,
@@ -30,6 +31,7 @@ export default {
                 outputEncoding: "utf8",
                 safe: "off",
                 cx: "178505e41af014287",
+                searchType: "image",
             },
         ],
     },
@@ -37,492 +39,238 @@ export default {
         title: "G Clone",
     },
     searchInformation: {
-        searchTime: 0.39428,
-        formattedSearchTime: "0.39",
-        totalResults: "380000000",
-        formattedTotalResults: "380,000,000",
+        searchTime: 0.655088,
+        formattedSearchTime: "0.66",
+        totalResults: "8110000000",
+        formattedTotalResults: "8,110,000,000",
     },
     items: [
         {
             kind: "customsearch#result",
-            title: "League of Legends",
-            htmlTitle: "<b>League of Legends</b>",
-            link: "https://www.leagueoflegends.com/en-us/",
-            displayLink: "www.leagueoflegends.com",
+            title: "League of Legends | Download and Play for Free - Epic Games Store",
+            htmlTitle:
+                "<b>League of Legends</b> | Download and Play <b>for</b> Free - Epic Games Store",
+            link: "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S1_2560x1440-ee500721c06da3ec1e5535a88588c77f",
+            displayLink: "store.epicgames.com",
             snippet:
-                "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free.",
+                "League of Legends | Download and Play for Free - Epic Games Store",
             htmlSnippet:
-                "<b>League of Legends</b> is a team-based game with over 140 champions to make epic plays with. Play now for free.",
-            cacheId: "mPTomH5zo2YJ",
-            formattedUrl: "https://www.leagueoflegends.com/en-us/",
-            htmlFormattedUrl: "https://www.<b>leagueoflegends</b>.com/en-us/",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp4PbLxFou3Rpdcfb96UQpZM_ByQpSAuS3zBjfUkQhPwdotYEIN9Ftp8ET",
-                        width: "310",
-                        height: "163",
-                    },
-                ],
-                VideoGame: [{}],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
-                        "og:type": "website",
-                        viewport:
-                            "width=device-width, initial-scale=1, shrink-to-fit=no",
-                        "og:title": "League of Legends",
-                        "og:url": "https://www.leagueoflegends.com/en-us/",
-                        "og:description":
-                            "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free.",
-                        "format-detection": "telephone=no",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
-                    },
-                ],
+                "<b>League of Legends</b> | Download and Play <b>for</b> Free - Epic Games Store",
+            mime: "image/",
+            fileFormat: "image/",
+            image: {
+                contextLink:
+                    "https://store.epicgames.com/en-US/p/league-of-legends",
+                height: 1440,
+                width: 2560,
+                byteSize: 913471,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdn_mIo8KWBiX6ePGMZKmSnI8QsBkP-Kqmm26OHJG8tmm5LeCSKMhFkA&s",
+                thumbnailHeight: 84,
+                thumbnailWidth: 150,
             },
         },
         {
             kind: "customsearch#result",
-            title: "League of Legends Download | North America",
-            htmlTitle: "<b>League of Legends</b> Download | North America",
-            link: "https://signup.leagueoflegends.com/en-us/signup/redownload",
-            displayLink: "signup.leagueoflegends.com",
-            snippet:
-                "Download and install League of Legends for the North America server. Play for free today.",
-            htmlSnippet:
-                "Download and install <b>League of Legends</b> for the North America server. Play for free today.",
-            cacheId: "2VbaDBdikF4J",
-            formattedUrl:
-                "https://signup.leagueoflegends.com/en-us/signup/redownload",
-            htmlFormattedUrl:
-                "https://signup.<b>leagueoflegends</b>.com/en-us/signup/redownload",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS4T4_tpWAr6TKKHmpV6Fyh6EMlOkY_xLw6cgulbSFkoar9HFrcVG6wx_p",
-                        width: "339",
-                        height: "149",
-                    },
-                ],
-                metatags: [
-                    {
-                        "og:type": "website",
-                        viewport:
-                            "width=device-width,initial-scale=1,shrink-to-fit=no",
-                        "og:title":
-                            "League of Legends Download | North America",
-                        "og:locale": "en_US",
-                        title: "League of Legends Download | North America",
-                        "og:url":
-                            "https://signup.leagueoflegends.com/en-us/signup/redownload",
-                        "og:description":
-                            "Download and install League of Legends for the North America server.  Play for free today.",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://signup.leagueoflegends.com/en-us/assets/lol-logo.png",
-                    },
-                ],
+            title: "Arcane: League of Legends - Rotten Tomatoes",
+            htmlTitle: "Arcane: <b>League of Legends</b> - Rotten Tomatoes",
+            link: "https://resizing.flixster.com/SFfLVmXdiFhntYdVoYo2hyBJn9U=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMzRiYTc0NzUtZjJhNS00ZTlhLWI4ODMtY2MxNWNjMWU1ZjJmLmpwZw==",
+            displayLink: "www.rottentomatoes.com",
+            snippet: "Arcane: League of Legends - Rotten Tomatoes",
+            htmlSnippet: "Arcane: <b>League of Legends</b> - Rotten Tomatoes",
+            mime: "image/",
+            fileFormat: "image/",
+            image: {
+                contextLink:
+                    "https://www.rottentomatoes.com/tv/arcane_league_of_legends",
+                height: 2222,
+                width: 1500,
+                byteSize: 620081,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxAWgLcytdbwbu23vm8o7GsPUGIDzAHAOI-aaJSDxxvv2SyQOk6h2tzs&s",
+                thumbnailHeight: 150,
+                thumbnailWidth: 101,
             },
         },
         {
             kind: "customsearch#result",
-            title: "Download League of Legends",
-            htmlTitle: "Download <b>League of Legends</b>",
-            link: "https://www.leagueoflegends.com/en-gb/",
-            displayLink: "www.leagueoflegends.com",
-            snippet:
-                "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free.",
-            htmlSnippet:
-                "<b>League of Legends</b> is a team-based game with over 140 champions to make epic plays with. Play now for free.",
-            cacheId: "Bi4iNEbwiMAJ",
-            formattedUrl: "https://www.leagueoflegends.com/en-gb/",
-            htmlFormattedUrl: "https://www.<b>leagueoflegends</b>.com/en-gb/",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp4PbLxFou3Rpdcfb96UQpZM_ByQpSAuS3zBjfUkQhPwdotYEIN9Ftp8ET",
-                        width: "310",
-                        height: "163",
-                    },
-                ],
-                VideoGame: [{}],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
-                        "og:type": "website",
-                        viewport:
-                            "width=device-width, initial-scale=1, shrink-to-fit=no",
-                        "og:title": "League of Legends",
-                        "og:url": "https://www.leagueoflegends.com/en-gb/",
-                        "og:description":
-                            "League of Legends is a team-based game with over 140 champions to make epic plays with. Play now for free.",
-                        "format-detection": "telephone=no",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://www.leagueoflegends.com/static/open-graph-2e582ae9fae8b0b396ca46ff21fd47a8.jpg",
-                    },
-                ],
-            },
-        },
-        {
-            kind: "customsearch#result",
-            title: "LoL Esports",
-            htmlTitle: "<b>LoL</b> Esports",
-            link: "https://lolesports.com/",
-            displayLink: "lolesports.com",
-            snippet:
-                "League of Legends - Worlds 2022 · ARTICLE. The World Championship Final is Coming to Cinemas Worldwide! ARTICLE. Your Guide to LoL Esports Drops at Worlds ...",
-            htmlSnippet:
-                "<b>League of Legends</b> - Worlds 2022 &middot; ARTICLE. The World Championship Final is Coming to Cinemas Worldwide! ARTICLE. Your Guide to LoL Esports Drops at Worlds&nbsp;...",
-            cacheId: "NSOKZSrVHXMJ",
-            formattedUrl: "https://lolesports.com/",
-            htmlFormattedUrl: "https://<b>lol</b>esports.com/",
-            pagemap: {
-                metatags: [
-                    {
-                        "application-name": "LoL Esports",
-                        "msapplication-starturl": "/schedule",
-                        "theme-color": "#000000",
-                        "fb:app_id": "667434100039720",
-                        "apple-mobile-web-app-status-bar-style": "black",
-                        viewport:
-                            "width=device-width,initial-scale=1,shrink-to-fit=no",
-                        "apple-mobile-web-app-capable": "yes",
-                        "apple-mobile-web-app-title": "LoL Esports",
-                        "mobile-web-app-capable": "yes",
-                        "msapplication-navbutton-color": "#000000",
-                        "facebook-domain-verification":
-                            "giabiihe129qbd3mvcocnl10keykmh",
-                    },
-                ],
-            },
-        },
-        {
-            kind: "customsearch#result",
-            title: "League of Legends - Wikipedia",
-            htmlTitle: "<b>League of Legends</b> - Wikipedia",
-            link: "https://en.wikipedia.org/wiki/League_of_Legends",
-            displayLink: "en.wikipedia.org",
-            snippet:
-                "League of Legends (LoL), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games.",
-            htmlSnippet:
-                "<b>League of Legends</b> (<b>LoL</b>), commonly referred to as League, is a 2009 multiplayer online battle arena video game developed and published by Riot Games.",
-            cacheId: "rFhY68taQuEJ",
-            formattedUrl: "https://en.wikipedia.org/wiki/League_of_Legends",
-            htmlFormattedUrl:
-                "https://en.wikipedia.org/wiki/<b>League_of_Legends</b>",
-            pagemap: {
-                metatags: [
-                    {
-                        referrer: "origin",
-                        "og:image":
-                            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/1200px-League_of_Legends_2019_vector.svg.png",
-                        "theme-color": "#eaecf0",
-                        "og:image:width": "1200",
-                        "og:type": "website",
-                        viewport:
-                            "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-                        "og:title": "League of Legends - Wikipedia",
-                        "og:image:height": "458",
-                        "format-detection": "telephone=no",
-                    },
-                ],
-                hproduct: [
-                    {
-                        fn: "League of Legends",
-                    },
-                ],
-            },
-        },
-        {
-            kind: "customsearch#result",
-            title: "Wild Rift: Welcome to League of Legends",
-            htmlTitle: "Wild Rift: Welcome to <b>League of Legends</b>",
-            link: "https://wildrift.leagueoflegends.com/",
-            displayLink: "wildrift.leagueoflegends.com",
-            snippet:
-                "League of Legends: Wild Rift is coming to mobile and console! Team up with friends and test your skills in 5v5 mobile MOBA combat.",
-            htmlSnippet:
-                "<b>League of Legends</b>: Wild Rift is coming to mobile and console! Team up with friends and test your skills in 5v5 mobile MOBA combat.",
-            cacheId: "v18PkiA7wuMJ",
-            formattedUrl: "https://wildrift.leagueoflegends.com/",
-            htmlFormattedUrl: "https://wildrift.<b>leagueoflegends</b>.com/",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOfKAM7ZfGfDAwUxFi0CfsMqH7epCwAoaw2lFU-W2b0L4ZID_azr-wrE",
-                        width: "311",
-                        height: "162",
-                    },
-                ],
-                VideoGame: [{}],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt25c7cb03f8dbb71e/5f5a8d9769d060498b8e4c31/WR_meta_homepage.png",
-                        "twitter:card": "summary",
-                        "og:type": "website",
-                        viewport:
-                            "width=device-width, initial-scale=1, shrink-to-fit=no",
-                        "og:title": "Welcome to League of Legends: Wild Rift",
-                        "og:url": "https://wildrift.leagueoflegends.com/en-us/",
-                        "twitter:creator": "@WildRift",
-                        "og:description":
-                            "League of Legends: Wild Rift is coming to mobile and console! Team up with friends and test your skills in 5v5 mobile MOBA combat.",
-                        "og:image:secure_url":
-                            "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt25c7cb03f8dbb71e/5f5a8d9769d060498b8e4c31/WR_meta_homepage.png",
-                        "format-detection": "telephone=no",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt25c7cb03f8dbb71e/5f5a8d9769d060498b8e4c31/WR_meta_homepage.png",
-                    },
-                ],
-            },
-        },
-        {
-            kind: "customsearch#result",
-            title: "Welcome to League of Legends",
-            htmlTitle: "Welcome to <b>League of Legends</b>",
-            link: "https://play.na.leagueoflegends.com/en_US",
-            displayLink: "play.na.leagueoflegends.com",
-            snippet:
-                "Whether you're playing Solo or Co-op with friends, League of Legends is a highly competitive, fast paced action-strategy game designed for those who crave a ...",
-            htmlSnippet:
-                "Whether you&#39;re playing Solo or Co-op with friends, <b>League of Legends</b> is a highly competitive, fast paced action-strategy game designed for those who crave a&nbsp;...",
-            cacheId: "NDOFIWuVLB8J",
-            formattedUrl: "https://play.na.leagueoflegends.com/en_US",
-            htmlFormattedUrl:
-                "https://play.na.<b>leagueoflegends</b>.com/en_US",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR14dPsdo3ATrwQj_x5w58KtAyyzH73UqrgG7hDbBJZtqLbH9OX5YGQWknc",
-                        width: "318",
-                        height: "159",
-                    },
-                ],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/en_US/f9caf54ff66c997b27b3d15cc7cf23212c91fb43/assets/img/hero-vid.jpg",
-                        "og:type": "website",
-                        viewport: "width=device-width, initial-scale=1",
-                        "og:title": "Welcome to League of Legends",
-                        "og:locale": "en_US",
-                        "og:url":
-                            "http://na.leagueoflegends.com/en/featured/playnow",
-                        "og:description":
-                            "Whether you're playing Solo or Co-op with friends, League of Legends is a highly competitive, fast paced action-strategy game designed for those who crave a hard fought victory.",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/en_US/f9caf54ff66c997b27b3d15cc7cf23212c91fb43/assets/img/hero-vid.jpg",
-                    },
-                ],
-            },
-        },
-        {
-            kind: "customsearch#result",
-            title: "League of Legends - YouTube",
-            htmlTitle: "<b>League of Legends</b> - YouTube",
-            link: "https://www.youtube.com/c/leagueoflegends",
+            title: "Welcome to League of Legends | Official Cinematic - YouTube",
+            htmlTitle:
+                "Welcome to <b>League of Legends</b> | Official Cinematic - YouTube",
+            link: "https://i.ytimg.com/vi/IzMnCv_lPxI/maxresdefault.jpg",
             displayLink: "www.youtube.com",
             snippet:
-                "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a multiplayer online battle arena game ...",
+                "Welcome to League of Legends | Official Cinematic - YouTube",
             htmlSnippet:
-                "Recently recognized as the most played video game in the world—100 million play every month—<b>League of Legends</b>® is a multiplayer online battle arena game&nbsp;...",
-            formattedUrl: "https://www.youtube.com/c/leagueoflegends",
-            htmlFormattedUrl:
-                "https://www.youtube.com/c/<b>leagueoflegends</b>",
-            pagemap: {
-                hcard: [
-                    {
-                        fn: "League of Legends",
-                        url: "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                    },
-                ],
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBMpJHshyWuDdak_L4OOKV5i_IQ-JAWds7ARDVLEyDcjbkk7YUp1FgId2Z",
-                        width: "225",
-                        height: "225",
-                    },
-                ],
-                imageobject: [
-                    {
-                        width: "900",
-                        url: "https://yt3.ggpht.com/6dq-ecwzsbD6YlMVxYaMJSaTP4Cm9JTWi-VdlfO3EhIstSeitJAwmhE3kg1YpNIcgj0im7S0qw=s900-c-k-c0x00ffffff-no-rj",
-                        height: "900",
-                    },
-                ],
-                person: [
-                    {
-                        name: "League of Legends",
-                        url: "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                    },
-                ],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://yt3.ggpht.com/6dq-ecwzsbD6YlMVxYaMJSaTP4Cm9JTWi-VdlfO3EhIstSeitJAwmhE3kg1YpNIcgj0im7S0qw=s900-c-k-c0x00ffffff-no-rj",
-                        "twitter:app:url:iphone":
-                            "vnd.youtube://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "twitter:app:id:googleplay":
-                            "com.google.android.youtube",
-                        "theme-color": "rgba(255, 255, 255, 0.98)",
-                        "og:image:width": "900",
-                        "twitter:card": "summary",
-                        "og:site_name": "YouTube",
-                        "twitter:url":
-                            "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "twitter:app:url:ipad":
-                            "vnd.youtube://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "al:android:package": "com.google.android.youtube",
-                        "twitter:app:name:googleplay": "YouTube",
-                        "al:ios:url":
-                            "vnd.youtube://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "twitter:app:id:iphone": "544007664",
-                        "og:description":
-                            "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a multiplayer online battle arena game (MOBA).\n\nPlayers choose a role from an expanding cast of powerful champions and join forces in strategic, fast-paced gameplay to take control of the enemy’s end of the battlefield.\n\nSign up for a free League of Legends account at http://riot.com/signup",
-                        "al:ios:app_store_id": "544007664",
-                        "twitter:image":
-                            "https://yt3.ggpht.com/6dq-ecwzsbD6YlMVxYaMJSaTP4Cm9JTWi-VdlfO3EhIstSeitJAwmhE3kg1YpNIcgj0im7S0qw=s900-c-k-c0x00ffffff-no-rj",
-                        "twitter:site": "@youtube",
-                        "og:type": "profile",
-                        "twitter:title": "League of Legends",
-                        "al:ios:app_name": "YouTube",
-                        "og:title": "League of Legends",
-                        "og:image:height": "900",
-                        "twitter:app:id:ipad": "544007664",
-                        "al:web:url":
-                            "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g?feature=applinks",
-                        "og:video:tag": "LoL",
-                        "al:android:url":
-                            "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g?feature=applinks",
-                        "fb:app_id": "87741124305",
-                        "twitter:app:url:googleplay":
-                            "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "twitter:app:name:ipad": "YouTube",
-                        "twitter:description":
-                            "Recently recognized as the most played video game in the world—100 million play every month—League of Legends® is a multiplayer online battle arena game (MOBA).\n\nPlayers choose a role from an expanding cast of powerful champions and join forces in strategic, fast-paced gameplay to take control of the enemy’s end of the battlefield.\n\nSign up for a free League of Legends account at http://riot.com/signup",
-                        "og:url":
-                            "https://www.youtube.com/channel/UC2t5bjwHdUX4vM2g8TRDq5g",
-                        "al:android:app_name": "YouTube",
-                        "twitter:app:name:iphone": "YouTube",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://yt3.ggpht.com/6dq-ecwzsbD6YlMVxYaMJSaTP4Cm9JTWi-VdlfO3EhIstSeitJAwmhE3kg1YpNIcgj0im7S0qw=s900-c-k-c0x00ffffff-no-rj",
-                    },
-                ],
+                "Welcome to <b>League of Legends</b> | Official Cinematic - YouTube",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink: "https://www.youtube.com/watch?v=IzMnCv_lPxI",
+                height: 720,
+                width: 1280,
+                byteSize: 149174,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEeiir9Au_rR3AEKmjC2XikT6ws6iPt4btIfYylWCeCHR_b4uodza4kA&s",
+                thumbnailHeight: 84,
+                thumbnailWidth: 150,
             },
         },
         {
             kind: "customsearch#result",
-            title: "Riot Games",
-            htmlTitle: "Riot Games",
-            link: "https://www.riotgames.com/en",
-            displayLink: "www.riotgames.com",
-            snippet:
-                "Riot Games is the most player-focused game developer and publisher in the world. We published League of Legends in 2009, and have since released Teamfight ...",
+            title: "League of Legends - Scholastic Esports | PlayVS",
+            htmlTitle: "<b>League of Legends</b> - Scholastic Esports | PlayVS",
+            link: "https://images.prismic.io/play-vs/6c423286e877921fb6659122b16e1845df833e1f_league-of-legends-hero-splash.jpg?auto=compress,format",
+            displayLink: "www.playvs.com",
+            snippet: "League of Legends - Scholastic Esports | PlayVS",
             htmlSnippet:
-                "Riot Games is the most player-focused game developer and publisher in the world. We published <b>League of Legends</b> in 2009, and have since released Teamfight&nbsp;...",
-            cacheId: "uFq3be0ukAcJ",
-            formattedUrl: "https://www.riotgames.com/en",
-            htmlFormattedUrl: "https://www.riotgames.com/en",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMCiIf2sOhriTtluZi5eMQ3egcI2L-Ootfd3fmmWaIqAa2Cw9mJa7mL8",
-                        width: "225",
-                        height: "225",
-                    },
-                ],
-                metatags: [
-                    {
-                        "application-name": "Riot Games",
-                        "msapplication-tilecolor": "#252423",
-                        "og:image":
-                            "https://www.riotgames.com/assets/img/meta/04fa9e7e9b64fc21382fba33a1f436c2/meta-icon-1000x1000.jpg",
-                        creator: "Clock – http://www.clock.co.uk",
-                        "theme-color": "#252423",
-                        "og:type": "website",
-                        "twitter:card": "summary",
-                        "og:site_name": "Riot Games",
-                        "og:image:url":
-                            "https://www.riotgames.com/assets/img/meta/04fa9e7e9b64fc21382fba33a1f436c2/meta-icon-1000x1000.jpg",
-                        "apple-mobile-web-app-title": "Riot Games",
-                        "og:title": "Home",
-                        "og:description":
-                            "Riot Games is the most player-focused game developer and publisher in the world. We published League of Legends in 2009, and have since released Teamfight Tactics, Legends of Runeterra, VALORANT, and League of Legends: Wild Rift.",
-                        "og:image:secure_url":
-                            "https://www.riotgames.com/assets/img/meta/04fa9e7e9b64fc21382fba33a1f436c2/meta-icon-1000x1000.jpg",
-                        "twitter:site": "riotgames",
-                        viewport: "initial-scale=1",
-                        "og:url": "https://www.riotgames.com/en",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://www.riotgames.com/assets/img/meta/04fa9e7e9b64fc21382fba33a1f436c2/meta-icon-1000x1000.jpg",
-                    },
-                ],
+                "<b>League of Legends</b> - Scholastic Esports | PlayVS",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink: "https://www.playvs.com/league-of-legends",
+                height: 680,
+                width: 1000,
+                byteSize: 97735,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLk-e1y_eNGQk1Adtd4b4bemloyTXDEMjX5VoB1-aFMgul9yKyFyWNmkU&s",
+                thumbnailHeight: 101,
+                thumbnailWidth: 149,
             },
         },
         {
             kind: "customsearch#result",
-            title: "League of Legends - Prime Gaming",
-            htmlTitle: "League of Legends - Prime Gaming",
-            link: "https://gaming.amazon.com/loot/leagueoflegends",
-            displayLink: "gaming.amazon.com",
+            title: "Welcome to League of Legends: Wild Rift",
+            htmlTitle: "Welcome to <b>League of Legends</b>: Wild Rift",
+            link: "https://i.ytimg.com/vi/pNjWjwae-us/maxresdefault.jpg",
+            displayLink: "wildrift.leagueoflegends.com",
+            snippet: "Welcome to League of Legends: Wild Rift",
+            htmlSnippet: "Welcome to <b>League of Legends</b>: Wild Rift",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink: "https://wildrift.leagueoflegends.com/",
+                height: 720,
+                width: 1280,
+                byteSize: 152028,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLXQYBcfEex0vo4tYxqhqpukmSsnqJQS0m3Ly3Bpb7CqFYe1F9hCKzIw&s",
+                thumbnailHeight: 84,
+                thumbnailWidth: 150,
+            },
+        },
+        {
+            kind: "customsearch#result",
+            title: "Is League of Legends Dying? ➤ Can the giant keep the pace?",
+            htmlTitle:
+                "Is <b>League of Legends</b> Dying? ➤ Can the giant keep the pace?",
+            link: "https://www.esports.net/wp-content/uploads/2022/06/LoL.jpg",
+            displayLink: "www.esports.net",
             snippet:
-                "League of Legends is a team-based strategy game where two teams of five powerful champions face off to destroy the other's base.",
+                "Is League of Legends Dying? ➤ Can the giant keep the pace?",
             htmlSnippet:
-                "<b>League of Legends</b> is a team-based strategy game where two teams of five powerful champions face off to destroy the other&#39;s base.",
-            cacheId: "JbLbw_0oqL0J",
-            formattedUrl: "https://gaming.amazon.com/loot/leagueoflegends",
-            htmlFormattedUrl:
-                "https://gaming.amazon.com/loot/<b>leagueoflegends</b>",
-            pagemap: {
-                cse_thumbnail: [
-                    {
-                        src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUTysFMn9gDL9U7OtWg6sdKECWYrt7_XBpLUJuiCF-9KxsG3IlVzviGOQq",
-                        width: "310",
-                        height: "163",
-                    },
-                ],
-                metatags: [
-                    {
-                        "og:image":
-                            "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
-                        "theme-color": "#000000",
-                        "og:image:alt": "Prime Gaming",
-                        stage: "prod",
-                        viewport:
-                            "width=device-width,initial-scale=1,shrink-to-fit=no",
-                        isoneboxrevision: "false",
-                        "og:title": "Prime Gaming",
-                    },
-                ],
-                cse_image: [
-                    {
-                        src: "https://m.media-amazon.com/images/G/01/sm/shared/166979982420469/social_image._CB409110150_.jpg",
-                    },
-                ],
+                "Is <b>League of Legends</b> Dying? ➤ Can the giant keep the pace?",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink:
+                    "https://www.esports.net/news/is-league-of-legends-dying/",
+                height: 450,
+                width: 800,
+                byteSize: 103057,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLF5Oado1KEk5-odrzSa203j4tvA3SkNyT0FgCDwLwb6efray_-kviQHE&s",
+                thumbnailHeight: 80,
+                thumbnailWidth: 143,
+            },
+        },
+        {
+            kind: "customsearch#result",
+            title: "League of Legends: Wild Rift - Apps on Google Play",
+            htmlTitle:
+                "<b>League of Legends</b>: Wild Rift - Apps on Google Play",
+            link: "https://play-lh.googleusercontent.com/BizGbDX4pRMoukVy6AG1eoGtptKZsuINegY68b1i5adaaBpmj5LXQZk7UGxUUlqFgkyo=w526-h296-rw",
+            displayLink: "play.google.com",
+            snippet: "League of Legends: Wild Rift - Apps on Google Play",
+            htmlSnippet:
+                "<b>League of Legends</b>: Wild Rift - Apps on Google Play",
+            mime: "image/",
+            fileFormat: "image/",
+            image: {
+                contextLink:
+                    "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en_US&gl=US",
+                height: 296,
+                width: 526,
+                byteSize: 198180,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RSIbqj1oxAHrIqAymXlqdYdRMxn-z65hAxbFc8LvRGR1da3tm0sQug&s",
+                thumbnailHeight: 74,
+                thumbnailWidth: 132,
+            },
+        },
+        {
+            kind: "customsearch#result",
+            title: "Patch Notes - League of Legends",
+            htmlTitle: "Patch Notes - <b>League of Legends</b>",
+            link: "https://www.leagueoflegends.com/static/twitter-fafabb053dd48811ea554fe63188cc1a.jpg",
+            displayLink: "www.leagueoflegends.com",
+            snippet: "Patch Notes - League of Legends",
+            htmlSnippet: "Patch Notes - <b>League of Legends</b>",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink:
+                    "https://www.leagueoflegends.com/en-us/news/tags/patch-notes",
+                height: 512,
+                width: 1024,
+                byteSize: 190412,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxTPE0whhs4M_HaMOeMwIRE6lr9Iw0DWbjy88PjWyTYhmLI-aaiH5LgNk&s",
+                thumbnailHeight: 75,
+                thumbnailWidth: 150,
+            },
+        },
+        {
+            kind: "customsearch#result",
+            title: "Welcome to League of Legends: Wild Rift",
+            htmlTitle: "Welcome to <b>League of Legends</b>: Wild Rift",
+            link: "https://images.contentstack.io/v3/assets/blt370612131b6e0756/blt02dd32b665c25036/5f4defe8b553152466d1b21a/Homepage_World_1.jpg",
+            displayLink: "wildrift.leagueoflegends.com",
+            snippet: "Welcome to League of Legends: Wild Rift",
+            htmlSnippet: "Welcome to <b>League of Legends</b>: Wild Rift",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink: "https://wildrift.leagueoflegends.com/",
+                height: 750,
+                width: 750,
+                byteSize: 424911,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaWjsu9ViWh0g0TjifxgvzW5-jo9EnAGT4aRNJPak1-fP4NId-vVdyJ3qo&s",
+                thumbnailHeight: 141,
+                thumbnailWidth: 141,
+            },
+        },
+        {
+            kind: "customsearch#result",
+            title: "League of Legends - Twitch",
+            htmlTitle: "<b>League of Legends</b> - Twitch",
+            link: "https://static-cdn.jtvnw.net/ttv-boxart/21779-272x380.jpg",
+            displayLink: "www.twitch.tv",
+            snippet: "League of Legends - Twitch",
+            htmlSnippet: "<b>League of Legends</b> - Twitch",
+            mime: "image/jpeg",
+            fileFormat: "image/jpeg",
+            image: {
+                contextLink:
+                    "https://www.twitch.tv/directory/game/League%20of%20Legends",
+                height: 380,
+                width: 272,
+                byteSize: 30944,
+                thumbnailLink:
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauIPUoaRlmrzDo6F4WUliKcJkNwt6pPaNoPUvvd4Bgpb-ooP_KitS&s",
+                thumbnailHeight: 123,
+                thumbnailWidth: 88,
             },
         },
     ],

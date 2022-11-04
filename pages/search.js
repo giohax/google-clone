@@ -3,6 +3,7 @@ import Head from "next/head";
 import SearchHeader from "../components/SearchHeader";
 import Response from "../Response";
 import SearchResults from "../components/SearchResults";
+import ImageResults from "../components/ImageResults";
 
 import { useRouter } from "next/router";
 
@@ -20,7 +21,11 @@ const search = ({ results }) => {
 
             {/* Search Results */}
 
-            <SearchResults results={results} />
+            {router.query.searchType === "image" ? (
+                <ImageResults results={results} />
+            ) : (
+                <SearchResults results={results} />
+            )}
         </div>
     );
 };
@@ -29,7 +34,7 @@ export default search;
 
 export async function getServerSideProps(context) {
     const startIndex = context.query.start || "1";
-    const mockData = false;
+    const mockData = true;
     const data = mockData
         ? Response
         : await fetch(
