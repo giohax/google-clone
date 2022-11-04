@@ -29,7 +29,7 @@ const Search = ({ results }) => {
     );
 };
 
-export default search;
+export default Search;
 
 export async function getServerSideProps(context) {
     const startIndex = context.query.start || "1";
